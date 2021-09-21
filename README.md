@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Stualyttle/Stualyttle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there! 👋
+### I'm a junior developper, starting to code.
+Some of my projects are **Discord** bots, **Python** scripts and **websites**.
+I currently study web development at Artevelde college in Belgium.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Languag  |Level    |Description/About|
+|----------|---------|-----------------------------|
+|Python    |⭐⭐⭐✰✰|Did most coding in Python already. But I'm not a pro.|
+|Shell     |⭐⭐✰✰✰|Did some coding in this language. Not a pro by far.|
+|HTML      |⭐✰✰✰✰ |Starting out in Web Development. Basic experience.|
+|CSS       |⭐✰✰✰✰ |Starting out in Web Development. Basic experience.|
+|JavaScript|⭐✰✰✰✰ |Starting out in Web Development. Basic experience.|
+|PHP       |⭐✰✰✰✰ |Starting out in Web Development. Basic experience.|
