@@ -4,11 +4,14 @@ Some of my projects are **Discord** bots, **Python** scripts and **websites**.
 
 I currently study web development at Artevelde college in Belgium.
 
-| Languag  |Level    |Description/About|
-|----------|---------|-----------------------------|
-|Python    |⭐⭐⭐✰✰|Did most coding in Python already. But I'm not a pro.|
-|JavaScript|⭐⭐⭐✰✰ |Some advanced things have happend in javascript!|
-|Shell     |⭐⭐✰✰✰|Did some coding in this language. Not a pro by far.|
-|HTML      |⭐⭐✰✰✰ |Starting out in Web Development. Basic experience.|
-|CSS       |⭐⭐✰✰✰ |Starting out in Web Development. Basic experience.|
-|PHP       |⭐✰✰✰✰ |Starting out in Web Development. Basic experience.|
+
+<a href="https://www.stualyttle.com">
+  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=Stualyttle&bg_color=1d1f21&text_color=c9cacc&show_icons=true" alt="Stualyttle's GitHub Stats" />
+</a>
+<a href="https://www.stualyttle.com">
+  <img width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stualyttle&layout=compact&bg_color=1d1f21&text_color=c9cacc" alt="Stualyttle's GitHub Language Stats"  />
+</a>
+<a href="https://www.stualyttle.com">
+  <img width="51%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Stualyttle&bg_color=1d1f21&text_color=c9cacc" alt="Wakatime Week Stats" />
+</a>
+
