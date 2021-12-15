@@ -4,6 +4,10 @@ Some of my projects are **Discord** bots, **Python** scripts and **websites**.
 
 I currently study web development at Artevelde college in Belgium.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 | Languag  |Level    |Description/About|
 |----------|---------|-----------------------------|
 |Python    |⭐⭐⭐✰✰|Did most coding in Python already. But I'm not a pro.|
