@@ -6,12 +6,12 @@ I currently study web development at Artevelde college in Belgium.
 
 
 <a href="https://www.stualyttle.com">
-  <img style="margin-left: 5%; height: 200px; width: 45%" src="https://github-readme-stats.vercel.app/api?username=Stualyttle&bg_color=1d1f21&text_color=c9cacc&show_icons=true" alt="Stualyttle's GitHub Stats" />
+  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=Stualyttle&bg_color=1d1f21&text_color=c9cacc&show_icons=true" alt="Stualyttle's GitHub Stats" />
 </a>
 <a href="https://www.stualyttle.com">
-  <img style="height: 200px; width: 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stualyttle&layout=compact&bg_color=1d1f21&text_color=c9cacc" alt="Stualyttle's GitHub Language Stats"  />
+  <img width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stualyttle&layout=compact&bg_color=1d1f21&text_color=c9cacc" alt="Stualyttle's GitHub Language Stats"  />
 </a>
 <a href="https://www.stualyttle.com">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Stualyttle&bg_color=1d1f21&text_color=c9cacc" alt="Wakatime Week Stats" />
+  <img width="51%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Stualyttle&bg_color=1d1f21&text_color=c9cacc" alt="Wakatime Week Stats" />
 </a>
 
