@@ -10,3 +10,7 @@ I currently study web development at Artevelde college in Belgium.
 <a href="https://www.stualyttle.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stualyttle" alt="Stualyttle's GitHub Stats" />
 </a>
+<a href="https://www.stualyttle.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" alt="Stualyttle's GitHub Stats" />
+</a>
+
