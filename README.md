@@ -4,6 +4,7 @@ Some of my projects are **Discord** bots, **Python** scripts and **websites**.
 
 I currently study web development at Artevelde college in Belgium.
 
+
 <a href="https://www.stualyttle.com">
   <img width="60%"  src="https://github-readme-stats.vercel.app/api?username=Stualyttle&bg_color=1d1f21&text_color=c9cacc&show_icons=true" alt="Stualyttle's GitHub Stats" />
 </a>
