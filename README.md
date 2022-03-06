@@ -1,13 +1,14 @@
 # Heye, hello there! 👋
 
 <a target="_blank" href="https://wakatime.com/Stualyttle"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Stualyttle&bg_color=1d1f21&text_color=c9cacc" alt="Wakatime Stats"></a>
-### I'm Stualyttle, a junior developper starting to code!
+### I'm Stualyttle, a junior developer starting to code!
 I mainly code in Javascript, some of my projects are **Discord** bots and **website** building.
-This is my main accound, my school account can be found here: https://github.com/pgm-kilidebo
+This is my main accound, my school account can be found here: <a target="_blank" href="https://github.com/pgm-kilideb">https://github.com/pgm-kilidebo</a>
 
-I currently study web development at Artevelde college in Belgium.
+I currently study web development at Artevelde University of Applied Sciences in Belgium.
 <br> 
 <br> 
+<br>
 
 ## Languages:
 <a target="_blank" href="https://www.ecma-international.org/publications-and-standards/standards/"><img align="left" alt="JavaScript" height="33px" src="https://f.lyttle.it/DuaNti2sbq.png"></a>
@@ -21,8 +22,9 @@ I currently study web development at Artevelde college in Belgium.
 <br>
 <br>
 <br>
+<br>
 
-## Editors & Technoligies:
+## Editors & Technologies:
 <a target="_blank" href="https://www.jetbrains.com/webstorm/"><img align="left" alt="Webstorm" height="33px" src="https://f.lyttle.it/XjRD5IpQrb.png"></a>
 <a target="_blank" href="https://www.jetbrains.com/pycharm/"><img align="left" alt="PyCharm" height="33px" src="https://f.lyttle.it/TPWQeBjdEC.png"></a>
 <a target="_blank" href="https://www.adobe.com/products/xd.html"><img align="left" alt="Adobe XD" height="33px" src="https://f.lyttle.it/VoggFqzCjH.png"></a>
@@ -32,9 +34,10 @@ I currently study web development at Artevelde college in Belgium.
 <br>
 <br>
 <br>
+<br>
 
 ## Stats:
 <a target="_blank" href="https://www.stualyttle.com">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Stualyttle&bg_color=1d1f21&text_color=c9cacc&show_icons=true" alt="Main GitHub stats">
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stualyttle&layout=compact&bg_color=1d1f21&text_color=c9cacc" alt="Most used languages on github">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pgm-kilidebo&bg_color=1d1f21&text_color=c9cacc&show_icons=true" alt="Main GitHub stats">
+  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-kilidebo&layout=compact&bg_color=1d1f21&text_color=c9cacc" alt="Most used languages on github">
 </a>
