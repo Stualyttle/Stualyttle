@@ -49,7 +49,6 @@
       const degrees = this.getRandomNumber(0, 360, true)
       const time = this.getRandomNumber(22, 33) * 1000
 
-      console.log(height, width, degrees, time)
       return {height, width, degrees, time};
     },
     getMinusOrNot(number = 0) {
