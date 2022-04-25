@@ -3,7 +3,6 @@
 <a target="_blank" href="https://wakatime.com/Stualyttle"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Stualyttle&layout=compact&bg_color=1d1f21&text_color=c9cacc" alt="Wakatime Stats"></a>
 ### I'm Stualyttle, a junior developer starting to code!
 I mainly code in Javascript, some of my projects are **Discord** bots and **website** building.
-This is my school account, my personal account can be found here: <a target="_blank" href="https://github.com/KilianDeBock">https://github.com/KilianDeBock</a>
 
 I currently study web development at Artevelde University of Applied Sciences in Belgium.
 <br> 
@@ -30,6 +29,6 @@ I currently study web development at Artevelde University of Applied Sciences in
 
 ## Stats:
 <a target="_blank" href="https://www.stualyttle.com">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pgm-kilidebo&bg_color=1d1f21&text_color=c9cacc&show_icons=true" alt="Main GitHub stats">
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-kilidebo&layout=compact&bg_color=1d1f21&text_color=c9cacc" alt="Most used languages on github">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Stualyttle&bg_color=1d1f21&text_color=c9cacc&show_icons=true" alt="Main GitHub stats">
+  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stualyttle&layout=compact&bg_color=1d1f21&text_color=c9cacc" alt="Most used languages on github">
 </a>
