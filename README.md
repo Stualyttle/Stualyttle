@@ -6,6 +6,8 @@ I mainly code in Javascript, some of my projects are **Discord** bots and **webs
 
 I currently study web development at Artevelde University of Applied Sciences in Belgium.
 <br> 
+<br> 
+<br> 
 
 ## Languages:
 <a target="_blank" href="https://www.ecma-international.org/publications-and-standards/standards/"><img align="left" alt="JavaScript" height="33px" src="https://f.lyttle.it/DuaNti2sbq.png"></a>
@@ -17,6 +19,8 @@ I currently study web development at Artevelde University of Applied Sciences in
 <a target="_blank" href="https://www.iso.org/standard/63555.html"><img align="left" alt="SQL" height="33px" src="https://f.lyttle.it/T3pVq8aOEj.png"></a>
 <br>
 <br> 
+<br> 
+<br> 
 
 ## Editors & Technologies:
 <a target="_blank" href="https://www.jetbrains.com/webstorm/"><img align="left" alt="Webstorm" height="33px" src="https://f.lyttle.it/XjRD5IpQrb.png"></a>
@@ -25,6 +29,8 @@ I currently study web development at Artevelde University of Applied Sciences in
 <a target="_blank" href="https://www.adobe.com/products/photoshop.html"><img align="left" alt="Adobe Photoshop" height="33px" src="https://f.lyttle.it/P4gsADeGqZ.png"></a>
 <a target="_blank" href="https://www.docker.com/"><img align="left" alt="Docker" height="33px" src="https://f.lyttle.it/RuweCl7dut.png"></a>
 <br>
+<br> 
+<br> 
 <br> 
 
 ## Stats:
