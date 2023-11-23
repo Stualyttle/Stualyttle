@@ -78,6 +78,6 @@ I currently study web development at Artevelde University of Applied Sciences in
 
 ## Stats:
 <a target="_blank" href="https://www.stualyttle.com">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kiliandebock&bg_color=1d1f21&text_color=c9cacc&show_icons=true" alt="Main GitHub stats">
-  <img align="right" width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kiliandebock&layout=compact&bg_color=1d1f21&text_color=c9cacc" alt="Most used languages on github">
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=stualyttle&bg_color=1d1f21&text_color=c9cacc&show_icons=true" alt="Main GitHub stats">
+  <img align="right" width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=stualyttle&layout=compact&bg_color=1d1f21&text_color=c9cacc" alt="Most used languages on github">
 </a>
