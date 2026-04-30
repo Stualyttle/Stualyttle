@@ -1,6 +1,6 @@
 # Heye, hello there! 👋
 
-<a target="_blank" href="https://wakatime.com/Stualyttle"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Stualyttle&layout=compact&bg_color=1d1f21&text_color=c9cacc&langs_count=10" alt="Wakatime Stats"></a>
+<a target="_blank" href="https://wakatime.com/Stualyttle"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Stualyttle&layout=compact&bg_color=1d1f21&text_color=c9cacc&langs_count=16" alt="Wakatime Stats"></a>
 ### I'm Stualyttle, a full-stack developer!
 I code in multiple languages, like TypeScript, Python, .NET & Java, some of my projects are **Discord** bots, **website** building, **minecraft plugins**, **professional applications** & **API's** and the list goes on...
 
